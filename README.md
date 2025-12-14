@@ -19,7 +19,7 @@ Joins & Relationships
 
 Aggregation & Analysis
 - `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
-- Basic data analysis using SQL
+- Data analysis using SQL
 - Group-based calculations
 
 Database Concepts
